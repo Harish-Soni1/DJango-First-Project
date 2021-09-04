@@ -1,5 +1,7 @@
 # DJango-First-Project
 
+open folder and run python manage.py runserver in terminal
+
 Enter your Text in textarea and select operation you want
 ![image](https://user-images.githubusercontent.com/57593127/132089523-0fcaa8ab-165c-4b6b-bac4-b36048834f73.png)
 
